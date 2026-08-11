@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/sahilpatil-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/sahilpatil-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -125,7 +125,17 @@ PersonaOS is my main project for exploring AI application architecture and build
 
 ### AI / LLM
 
-`LangChain` `Google Gemini` `RAG` `Embeddings` `Vector Search` `Tool Calling` `Agentic AI`
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain,gemini" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
 
 ### Frontend
 
@@ -252,8 +262,7 @@ I'm interested in:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SahilPatil-Dev&theme=tokyonight&hide_border=true"
-  />
+    src="https://streak-stats.demolab.com?user=SahilPatil-Dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
