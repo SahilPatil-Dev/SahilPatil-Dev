@@ -89,6 +89,7 @@ PersonaOS is my main project for exploring AI application architecture and build
 ### Frontend
 
 - React.js
+- Next.js
 - JavaScript
 - Tailwind CSS
 
@@ -107,29 +108,25 @@ PersonaOS is my main project for exploring AI application architecture and build
 
 ### Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
 ### Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ### Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
 ### AI / LLM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=langchain,gemini" />
-</p>
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -139,16 +136,15 @@ PersonaOS is my main project for exploring AI application architecture and build
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman` />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
 </p>
-
 ---
 
 ## 📌 Featured Projects
