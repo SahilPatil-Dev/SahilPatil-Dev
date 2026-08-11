@@ -12,7 +12,7 @@
   <a href="https://github.com/sahilpatil-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/sahilpatil-dev">
+  <a href="https://www.linkedin.com/in/sahilpatil-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
