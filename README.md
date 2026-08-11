@@ -1,179 +1,246 @@
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I’m Sahil Patil</h1>
+<h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 
 <p align="center">
-  💻 Backend-Focused Developer &nbsp;•&nbsp; 🐍 Python & AI Learner  
-  <br/>
-  🌐 MERN Stack Explorer &nbsp;•&nbsp; 🧠 DSA & Core CS Enthusiast
+  <strong>Backend & AI Engineer</strong>
 </p>
-
----
-
-## 🌿 About Me
-
-I’m a developer who prefers **steady learning over shortcuts** and  
-**understanding systems instead of just using them**.
-
-My interests lie in backend development, building scalable APIs,
-and gradually integrating **AI-driven features using Python**.
-
-I’m currently focused on strengthening fundamentals, writing better code,
-and building projects that improve with every iteration.
-
-- ⚙️ Designing backend services and REST APIs  
-- 🐍 Learning Python for backend logic and AI workflows  
-- 🌐 Developing MERN stack applications step by step  
-- 🧠 Practicing DSA and essential computer science concepts  
-- 🔄 Improving through testing, debugging, and refactoring  
-
----
-
-## 🎯 Current Learning Direction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python_Backend_&_AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-MERN_Stack-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foundation-DSA_&_CS_Core-purple?style=for-the-badge" />
+  Building scalable backend systems and intelligent AI applications with Python.
 </p>
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c&theme=dark" />
-</p>
-
----
-
-### 🌐 Frontend Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-</p>
-
----
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
----
-
-### 🤖 Python & AI Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pandas,numpy&theme=dark" />
-</p>
-
----
-
-### 🧰 Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🧠 **FinSight AI** – SaaS Landing Page
-🌐 **Live Demo:** https://finsight-ai-landing.vercel.app/
-
-A modern and responsive SaaS landing page designed for an AI-focused product.
-Built with scalability and real-world SaaS structure in mind, focusing on clean UI,
-smooth animations, and maintainable architecture.
-
-**🚧 Project Status**
-- The public-facing marketing / landing page is fully completed  
-- The authenticated dashboard and core application features are under active development and will be introduced in future updates  
-
-**🧠 Tech Stack**
-- Next.js 14 (App Router)  
-- TypeScript  
-- Tailwind CSS  
-- Framer Motion  
-- Lucide Icons  
-
----
-
-### 🍔 **Foodie** – Full Stack Food Ordering Application
-A full-stack food ordering platform with separate user and admin interfaces,
-designed to simulate a real-world food delivery system.
-
-**🚧 Project Status**
-- Core functionality is implemented  
-- Additional features and refinements are currently in progress  
-
-**🧠 Tech Stack**
-
-**Frontend (Client & Admin)**
-- React  
-- Vite  
-- Context API  
-
-**Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
-- JWT Authentication  
-
-**📁 Project Structure**
-- `client/` → User-facing frontend  
-- `admin/` → Admin dashboard  
-- `server/` → Backend REST API  
-
-**✅ Features Implemented**
-- User authentication  
-- Food listing and browsing  
-- Add-to-cart functionality  
-- Admin panel to add and manage food items  
-- RESTful APIs with Express & MongoDB  
-
-**🔜 Planned Features**
-- Order placement workflow  
-- Payment gateway integration  
-- Order tracking system  
-- UI and UX improvements  
-
----
-
-### 🐍 **100 Days of Advanced Python**
-A long-term learning project focused on exploring **advanced Python concepts**
-through experimentation, internal mechanics, and practical use cases.
-
-This repository documents in-depth learning across topics such as performance,
-design patterns, internals, and real-world Python applications.
-
-**🧠 Focus Areas**
-- Advanced Python language features  
-- Code optimization and best practices  
-- Practical experiments and mini-implementations  
-- Real-world problem-solving with Python  
-
-> 📌 This project is continuously evolving as part of a structured long-term learning journey.
-
-> 🧩 More projects focused on backend, MERN stack, and AI are **coming soon**
-
----
-
-## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sahilpatil-softwareengineer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/xsahilpatil63">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:sahilp599800@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/SahilPatil-Dev">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Backend & AI Engineer** focused on building scalable backend systems and AI-powered applications.
+
+My foundation is in backend engineering with **Python, FastAPI, PostgreSQL, REST APIs, asynchronous programming, authentication, database design, and layered application architecture**.
+
+I'm now specializing in **AI Engineering**, exploring how Large Language Models can be integrated into reliable, context-aware applications using **LangChain, RAG, embeddings, tool calling, and agentic workflows**.
+
+I enjoy understanding systems deeply, designing clean architectures, and turning ideas into working products.
+
+---
+
+## 🚀 Currently Building
+
+### PersonaOS — AI-Powered Personal Operating System
+
+I'm currently building **PersonaOS**, an AI-powered Personal Operating System designed around a simple idea:
+
+> **AI should understand your personal context and use it to power intelligent applications and workflows.**
+
+PersonaOS is my main project for exploring AI application architecture and building beyond simple LLM API integrations.
+
+### Areas I'm exploring through PersonaOS
+
+- 🤖 LLM-powered applications
+- 🧠 Personal context & AI memory
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔎 Embeddings & semantic retrieval
+- 🗄️ Vector databases
+- 🛠️ Tool / function calling
+- 🔄 Agentic AI workflows
+- 🔗 LangChain
+- ⚡ FastAPI-based AI services
+- ⚛️ React interfaces
+- 🔐 Authentication & authorization
+- 🏗️ AI application architecture
+
+> 🚧 PersonaOS is actively under development.
+
+---
+
+### Backend Engineering
+
+- Python
+- FastAPI
+- REST API Design
+- PostgreSQL
+- SQLAlchemy
+- Pydantic
+- Async Programming
+- JWT Authentication
+- RBAC
+- Database Design
+- Layered Architecture
+
+### AI Engineering
+
+- LLM APIs
+- Prompt Engineering
+- LangChain
+- RAG
+- Embeddings
+- Vector Databases
+- Tool Calling
+- Agentic AI
+- AI Application Architecture
+
+### Frontend
+
+- React.js
+- JavaScript
+- Tailwind CSS
+
+### Engineering Tools
+
+- Git
+- GitHub
+- Postman
+- Alembic
+- Docker
+- Linux
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+</p>
+
+### AI / LLM
+
+`LangChain` `Google Gemini` `RAG` `Embeddings` `Vector Search` `Tool Calling` `Agentic AI`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman` />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 PersonaOS
+
+**AI-Powered Personal Operating System**
+
+A long-term project exploring how AI can understand personal context and provide intelligent applications, workflows, and task execution.
+
+**Focus:**
+
+`LLMs` `RAG` `Agents` `LangChain` `Embeddings` `Tool Calling` `FastAPI` `React` `PostgreSQL`
+
+🚧 Actively under development.
+
+---
+
+### 📖 Interactive Story AI
+
+An AI-powered interactive storytelling platform that generates dynamic branching narratives.
+
+**Tech Stack:**
+
+`React.js` `FastAPI` `PostgreSQL` `LangChain` `Google Gemini`
+
+**Highlights:**
+
+- Dynamic AI-generated branching narratives
+- Tree-based story state management
+- PostgreSQL-backed narrative persistence
+- JWT-based authentication
+- Modular REST API architecture
+- API-Service-Repository architecture
+- Asynchronous state persistence
+
+---
+
+### ⚙️ Production-Grade Backend Systems
+
+A collection of backend engineering work focused on building production-style APIs and scalable backend architecture.
+
+**Tech Stack:**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Alembic`
+
+**Areas:**
+
+- Layered API / Service / Repository architecture
+- REST API design
+- RBAC
+- Async background processing
+- Structured logging
+- Request tracing
+- Global exception handling
+- SQL query optimization
+- Composite indexing
+- Database migrations
+- Data processing pipelines
+- Automated testing
+
+---
+
+## 📚 What I'm Learning
+
+Currently going deeper into:
+
+- LangChain
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector Search
+- Tool Calling
+- Agentic AI
+- AI Memory & Personal Context
+- LLM Application Architecture
+- Production AI Systems
+- Backend Scalability
+- Distributed Systems
+
+---
+
+## 📈 My Direction
+
+I'm building toward a career at the intersection of:
+
+**Backend Engineering × AI Engineering**
+
+My goal is to build reliable software systems where AI is not just a chatbot feature, but an actual part of the application's architecture.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+- Backend Engineering
+- AI Engineering
+- LLM Applications
+- RAG & Agentic AI
+- AI-powered products
+- Open-source projects
+- Building ambitious software
 
 ---
 
