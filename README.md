@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 
 <p align="center">
-  <strong>Backend & AI Engineer</strong>
+  <strong>Full Stack & AI Engineer</strong>
 </p>
 
 <p align="center">
